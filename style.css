@@ -1,0 +1,55 @@
+body.index {
+    background-color: rgb(221, 174, 174);
+    color: rgb(116, 37, 37);
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list {
+   padding-left: 0%;
+}
+
+a {
+    color: rgb(116, 37, 37);
+}
+
+a:link {
+    color: rgb(116, 37, 37);
+}
+
+a:visited {
+    color: rgb(223, 109, 109);
+}
+
+a:hover {
+    color: rgb(143, 45, 45);
+}
+
+a:active {
+    color: rgb(139, 45, 45);
+}
+body.recipe-one {
+    background-color: rgb(217, 238, 227);
+    color: rgb(121, 115, 115);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: justify;
+    text-align:justify;
+}
+
+body.recipe-two {
+    background-color: rgb(205, 181, 226);
+    color: rgb(121, 115, 115);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: justify;
+    text-align:justify;
+}
+
+body.recipe-three {
+    background-color: rgb(197, 243, 197);
+    color: rgb(121, 115, 115);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    align-items: justify;
+    text-align:justify;
+}
+    
